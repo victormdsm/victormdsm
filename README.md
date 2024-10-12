@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript and Javascript**
 
-- 👨💻 All of my projects are available at [https://github.com/victor])
+- 👨💻 All of my projects are available at [https://github.com/victormdsm])
 
 - 📫 How to reach me ****
 
@@ -14,4 +14,4 @@
 
 <p><img align="left" src="" alt="" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorchad&show_icons=true&locale=en" alt="victorchad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victormdsm&show_icons=true&locale=en" alt="victormdsm" /></p>
