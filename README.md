@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I am Victor Matheus</h1>
 <h3 align="center">A developer from Brazil</h3>
 
-- 🔭 I am currently working on **AI Developments**
+- 🔭 I am currently working on **Spring Framework**
 
-- 🌱 I’m currently learning **Typescript and Javascript**
+- 🌱 I’m currently learning **Typescript and Angular**
 
 - 👨💻 All of my projects are available at [https://github.com/victormdsm])
 
